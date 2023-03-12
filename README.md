@@ -30,11 +30,7 @@ Desafio 02 do conteúdo estudado nas aulas do Chapter II da trilha de React Nati
 ## :rocket: Executando o projeto
 
 ```bash
-// Instale as dependências
-
 yarn install
-
-// Concluindo a instalação rode
 
 yarn android
 ```
